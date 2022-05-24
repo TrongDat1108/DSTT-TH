@@ -1,0 +1,3 @@
+a = "TÍNH TRỪU TƯỢNG LÀ MỘT TIẾN TRÌNH CHỈ NÓI RA TÍNH NĂNG CỦA NGƯỜI DÙNG, CÁC KHÁI NIỆM ĐƯỢC ĐỊNH NGHĨA TRONG QUÁ TRÌNH PHÁT TRIỂN, BỎ QUA NHỮNG CHI TIẾT TRIỂN KHAI BÊN TRONG."
+
+print(a.lower())
